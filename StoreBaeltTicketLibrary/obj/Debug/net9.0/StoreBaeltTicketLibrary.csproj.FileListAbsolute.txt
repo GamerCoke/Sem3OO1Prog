@@ -1,0 +1,15 @@
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\bin\Debug\net9.0\StoreBaeltTicketLibrary.deps.json
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\bin\Debug\net9.0\StoreBaeltTicketLibrary.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\bin\Debug\net9.0\StoreBaeltTicketLibrary.pdb
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\bin\Debug\net9.0\Bridge.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\bin\Debug\net9.0\Bridge.xml
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\obj\Debug\net9.0\StoreBaeltTicketLibrary.csproj.AssemblyReference.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\obj\Debug\net9.0\StoreBaeltTicketLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\obj\Debug\net9.0\StoreBaeltTicketLibrary.AssemblyInfoInputs.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\obj\Debug\net9.0\StoreBaeltTicketLibrary.AssemblyInfo.cs
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\obj\Debug\net9.0\StoreBaeltTicketLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\obj\Debug\net9.0\StoreBae.A627461F.Up2Date
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\obj\Debug\net9.0\StoreBaeltTicketLibrary.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\obj\Debug\net9.0\refint\StoreBaeltTicketLibrary.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\obj\Debug\net9.0\StoreBaeltTicketLibrary.pdb
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\StoreBaeltTicketLibrary\obj\Debug\net9.0\ref\StoreBaeltTicketLibrary.dll

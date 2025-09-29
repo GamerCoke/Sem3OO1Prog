@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bridge</name>
+    </assembly>
+    <members>
+        <member name="T:Bridge.BaseVehicle">
+            <summary>
+            This is a Base class for Vehicle classes to inherit from
+            </summary>
+        </member>
+        <member name="F:Bridge.BaseVehicle._licenseplate">
+            <summary>
+            Actual storage of the licenseplate, not strictly necessary if class is not used by itself
+            </summary>
+        </member>
+        <member name="P:Bridge.BaseVehicle.Licenseplate">
+            <summary>
+            This is the licenseplate of the vehicle
+            
+            Contains exception handling, not strictly necessary if class is not used by itself
+            License needs to be less than 7 characters long, and not null
+            </summary>
+        </member>
+        <member name="F:Bridge.BaseVehicle.Date">
+            <summary>
+            This is the registered entry date
+            </summary>
+        </member>
+        <member name="F:Bridge.BaseVehicle.BroBizz">
+            <summary>
+            This checks for use of a BroBizz(tm)
+            </summary>
+        </member>
+        <member name="M:Bridge.BaseVehicle.Price">
+            <summary>
+            This is the price for the vehicle
+            </summary>
+            <returns>double</returns>
+        </member>
+        <member name="M:Bridge.BaseVehicle.VehicleType">
+            <summary>
+            This is the vehicle type
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="T:Bridge.Car">
+            <summary>
+            This is a Car class
+            </summary>
+        </member>
+        <member name="F:Bridge.Car._licenseplate">
+            <summary>
+            Actual storage of licenseplate
+            </summary>
+        </member>
+        <member name="P:Bridge.Car.Licenseplate">
+            <summary>
+            The license on the licenseplate, of the car
+            
+            Contains exception handling
+            License needs to be less than 7 characters long, and not null
+            </summary>
+        </member>
+        <member name="F:Bridge.Car.Date">
+            <summary>
+            The Date for registration of transaction
+            </summary>
+        </member>
+        <member name="F:Bridge.Car.BroBizz">
+            <summary>
+            This checks for use of a BroBizz(tm)
+            </summary>
+        </member>
+        <member name="M:Bridge.Car.Price">
+            <summary>
+            Returns the price for crossing the bridge
+            </summary>
+            <returns>230</returns>
+        </member>
+        <member name="M:Bridge.Car.VehicleType">
+            <summary>
+            Returns the type of vehicle
+            </summary>
+            <returns>"Car"</returns>
+        </member>
+        <member name="T:Bridge.MC">
+            <summary>
+            This is a MC class
+            </summary>
+        </member>
+        <member name="F:Bridge.MC._licenseplate">
+            <summary>
+            Actual storage of licenseplate
+            </summary>
+        </member>
+        <member name="P:Bridge.MC.Licenseplate">
+            <summary>
+            Licenseplate for the MC
+            
+            Contains exception handling
+            License needs to be less than 7 characters long, and not null
+            </summary>
+        </member>
+        <member name="F:Bridge.MC.Date">
+            <summary>
+            Date of entry
+            </summary>
+        </member>
+        <member name="F:Bridge.MC.BroBizz">
+            <summary>
+            This checks for use of a BroBizz(tm)
+            </summary>
+        </member>
+        <member name="M:Bridge.MC.Price">
+            <summary>
+            Returns price
+            </summary>
+            <returns>120</returns>
+        </member>
+        <member name="M:Bridge.MC.VehicleType">
+            <summary>
+            Returns Vehicle type
+            </summary>
+            <returns>"MC"</returns>
+        </member>
+    </members>
+</doc>

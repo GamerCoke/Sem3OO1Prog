@@ -1,0 +1,15 @@
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\bin\Debug\net9.0\OresundbronLibrary.deps.json
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\bin\Debug\net9.0\OresundbronLibrary.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\bin\Debug\net9.0\OresundbronLibrary.pdb
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\bin\Debug\net9.0\Bridge.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\bin\Debug\net9.0\Bridge.xml
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\obj\Debug\net9.0\OresundbronLibrary.csproj.AssemblyReference.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\obj\Debug\net9.0\OresundbronLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\obj\Debug\net9.0\OresundbronLibrary.AssemblyInfoInputs.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\obj\Debug\net9.0\OresundbronLibrary.AssemblyInfo.cs
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\obj\Debug\net9.0\OresundbronLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\obj\Debug\net9.0\Oresundb.BD279F61.Up2Date
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\obj\Debug\net9.0\OresundbronLibrary.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\obj\Debug\net9.0\refint\OresundbronLibrary.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\obj\Debug\net9.0\OresundbronLibrary.pdb
+C:\Users\Bi-Kuben\Desktop\Zealand\3. Semester\Programmering\Repo\OresundbronLibrary\obj\Debug\net9.0\ref\OresundbronLibrary.dll
