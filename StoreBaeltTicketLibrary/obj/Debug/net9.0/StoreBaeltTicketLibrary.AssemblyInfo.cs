@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoreBaeltTicketLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2866ab9e1626387c10fb9059dc51b7a003f154f")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoreBaeltTicketLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoreBaeltTicketLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

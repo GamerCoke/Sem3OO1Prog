@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\OO1\\StoreBaeltTicketLibrary\\StoreBaeltTicketLibrary.csproj": {}
+    "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\GitHubOO1\\StoreBaeltTicketLibrary\\StoreBaeltTicketLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\OO1\\StoreBaeltTicketLibrary\\StoreBaeltTicketLibrary.csproj": {
+    "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\GitHubOO1\\StoreBaeltTicketLibrary\\StoreBaeltTicketLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\OO1\\StoreBaeltTicketLibrary\\StoreBaeltTicketLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\GitHubOO1\\StoreBaeltTicketLibrary\\StoreBaeltTicketLibrary.csproj",
         "projectName": "StoreBaeltTicketLibrary",
-        "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\OO1\\StoreBaeltTicketLibrary\\StoreBaeltTicketLibrary.csproj",
+        "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\GitHubOO1\\StoreBaeltTicketLibrary\\StoreBaeltTicketLibrary.csproj",
         "packagesPath": "C:\\Users\\Bi-Kuben\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\OO1\\StoreBaeltTicketLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\GitHubOO1\\StoreBaeltTicketLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

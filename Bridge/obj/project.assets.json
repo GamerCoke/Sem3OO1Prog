@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\OO1\\Bridge\\Bridge.csproj",
+      "projectUniqueName": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\GitHubOO1\\Bridge\\Bridge.csproj",
       "projectName": "Bridge",
-      "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\OO1\\Bridge\\Bridge.csproj",
+      "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\GitHubOO1\\Bridge\\Bridge.csproj",
       "packagesPath": "C:\\Users\\Bi-Kuben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\OO1\\Bridge\\obj\\",
+      "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\3. Semester\\Programmering\\Repo\\GitHubOO1\\Bridge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
